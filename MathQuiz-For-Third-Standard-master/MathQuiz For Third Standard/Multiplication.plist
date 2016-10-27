@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Mimi bought 5 bunches of bananas. There were 3 bananas in each bunch. How many bananas did Mimi buy?</string>
+		<key>answer</key>
+		<string>15</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>8</string>
+			<string>3</string>
+			<string>5</string>
+			<string>15</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Ben planted 12 rows of rose bushes in his garden. He planted 6 bushes in each row. How many rose bushes did Ben plant in the garden?</string>
+		<key>answer</key>
+		<string>72</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>17</string>
+			<string>6</string>
+			<string>72</string>
+			<string>60</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 8 boxes of books in the storeroom. Each box has 4 books. How many books are there in all?</string>
+		<key>answer</key>
+		<string>32</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>32</string>
+			<string>28</string>
+			<string>24</string>
+			<string>12</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 4 people on each relay race team. Each person runs 4 laps. How many laps long is the relay race?</string>
+		<key>answer</key>
+		<string>16</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>12</string>
+			<string>8</string>
+			<string>16</string>
+			<string>4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 5 boxed of cookies in the pantry. Each box contains 8 cookies. How many cookies are there in total?</string>
+		<key>answer</key>
+		<string>40</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>8</string>
+			<string>40</string>
+			<string>35</string>
+			<string>20</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Eli filled 9 vases with tulips. He put 4 tulips in each vase. How many tulips did Eli use?</string>
+		<key>answer</key>
+		<string>36</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>18</string>
+			<string>36</string>
+			<string>9</string>
+			<string>13</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A baseball stadium has 4 sections. There are 114 seats in each section. How many seats are there in all?</string>
+		<key>answer</key>
+		<string>456</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>446</string>
+			<string>436</string>
+			<string>456</string>
+			<string>466</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Each correct answer on a game show is worth 3 points. Last night, a contestant answered 219 questions correctly. How many points did the contestant earn?</string>
+		<key>answer</key>
+		<string>657</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>607</string>
+			<string>647</string>
+			<string>657</string>
+			<string>627</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A school is selling cookies as a fundraiser. Each box contains 5 cookies. Each student can sell 4 boxes of cookies. How many cookies can 3 students sell?</string>
+		<key>answer</key>
+		<string>60</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>20</string>
+			<string>40</string>
+			<string>60</string>
+			<string>80</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Darren is ordering breakfast in a restaurant. He can have hard boiled or scrambled eggs. On the side, he can choose to have hash browns, a muffin, or potatoes. How many different combinations can Darren order for breakfast?</string>
+		<key>answer</key>
+		<string>6</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>3</string>
+			<string>2</string>
+			<string>6</string>
+			<string>12</string>
+		</array>
+	</dict>
+</array>
+</plist>

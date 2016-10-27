@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Vondra is 40 years old. Dayton is 1 year younger than Omar and 4 years older than Blanca. Omar is 1 year younger than Vondra. How old is Dayton?</string>
+		<key>answer</key>
+		<string>38 yrs</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>37 yrs</string>
+			<string>39 yrs</string>
+			<string>38 yrs</string>
+			<string>36 yrs</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Avery is 44 years old. Ellie is 1 year older than Karen and 3 years younger than Avery. How old is Karen?</string>
+		<key>answer</key>
+		<string>40 yrs</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>39 yrs</string>
+			<string>40 yrs</string>
+			<string>41 yrs</string>
+			<string>42 yrs</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>I am an odd number. You do not say me when you count by fives. I am greater than 91 but less than 96.
+
+What number am I?</string>
+		<key>answer</key>
+		<string>93</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>93</string>
+			<string>95</string>
+			<string>94</string>
+			<string>91</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Alex is 8. Scott is 2 years older than Alex and 4 years younger than Kevin. How old is Kevin?</string>
+		<key>answer</key>
+		<string>14 yrs</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>14 yrs</string>
+			<string>11 yrs</string>
+			<string>10 yrs</string>
+			<string>12 yrs</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Alana spent more money than Ron. Bernie spent less money than Ron. Who spent the most money?</string>
+		<key>answer</key>
+		<string>Alana</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>Ron</string>
+			<string>Bernie</string>
+			<string>Alana</string>
+			<string>Caesar</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Mario spent less money than Homer but more money than Ari. Who spent most money?</string>
+		<key>answer</key>
+		<string>Homer</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>Homer</string>
+			<string>Mario</string>
+			<string>Ari</string>
+			<string>Alana</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>The gold ribbon is shorter than the red ribbon but longer than the purple ribbon. Which ribbon is shortest?</string>
+		<key>answer</key>
+		<string>purple ribbon</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>purple ribbon</string>
+			<string>gold ribbon</string>
+			<string>red ribbon</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>What is the largest whole number you can make with the following digits?
+
+6     2     3     8</string>
+		<key>answer</key>
+		<string>8632</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>6328</string>
+			<string>8623</string>
+			<string>8632</string>
+			<string>8836</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>I am a one-digit number. You say me when you count by twos. I am greater than 6.
+
+What number am I?</string>
+		<key>answer</key>
+		<string>8</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>7</string>
+			<string>8</string>
+			<string>9</string>
+			<string>10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>I have a two in the ones place. I am greater than 64 but less than 81.
+
+What number am I?</string>
+		<key>answer</key>
+		<string>72</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>62</string>
+			<string>72</string>
+			<string>82</string>
+			<string>28</string>
+		</array>
+	</dict>
+</array>
+</plist>

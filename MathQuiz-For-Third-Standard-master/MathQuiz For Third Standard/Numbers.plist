@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Ian skip-counted by sevens, starting at 42. Which of these numbers he could have said?</string>
+		<key>answer</key>
+		<string>91</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>54</string>
+			<string>67</string>
+			<string>72</string>
+			<string>91</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Joyce skip-counted by fours, starting at 4. Which of these numbers he could not have said?</string>
+		<key>answer</key>
+		<string>30</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>44</string>
+			<string>30</string>
+			<string>24</string>
+			<string>16</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How would you write 209 in roman numerals?</string>
+		<key>answer</key>
+		<string>CCIX</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>CCIX</string>
+			<string>CIX</string>
+			<string>CCXI</string>
+			<string>CCIIX</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How do you write 83 using words?</string>
+		<key>answer</key>
+		<string>eighty-three</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>fifty-three</string>
+			<string>eighty-one</string>
+			<string>thirty-eight</string>
+			<string>eighty-three</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which of the following number is even?</string>
+		<key>answer</key>
+		<string>22</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>21</string>
+			<string>23</string>
+			<string>22</string>
+			<string>25</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which sign makes the statement true?
+529  ?  592</string>
+		<key>answer</key>
+		<string>&lt;</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>&lt;</string>
+			<string>&gt;</string>
+			<string>=</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Find the missing number in the sequence:
+81, 75, 69, ?, 57</string>
+		<key>answer</key>
+		<string>63</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>61</string>
+			<string>63</string>
+			<string>59</string>
+			<string>66</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Find the missing number in the sequence:
+10, 20, 30, 40, 50, ?</string>
+		<key>answer</key>
+		<string>60</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>60</string>
+			<string>50</string>
+			<string>70</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which number makes the statement true?
+8 - 3 &lt; ? + 2</string>
+		<key>answer</key>
+		<string>4</string>
+		<key>credit</key>
+		<integer>0</integer>
+		<key>options</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which sign makes the statement true?
+19 - 13 ? 3 + 2 + 1</string>
+		<key>answer</key>
+		<string>=</string>
+		<key>credit</key>
+		<integer>0</integer>
+		<key>options</key>
+		<array>
+			<string>&gt;</string>
+			<string>=</string>
+			<string>&lt;</string>
+			<string>none</string>
+		</array>
+	</dict>
+</array>
+</plist>

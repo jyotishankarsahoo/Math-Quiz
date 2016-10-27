@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Kate&apos;s soccer team did two fundraisers last year. They raised $243 selling candy and $957 washing cars. How much money did the team raise in all?</string>
+		<key>answer</key>
+		<string>$1200</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>$1000</string>
+			<string>$1100</string>
+			<string>$1200</string>
+			<string>$900</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Barry wants to go ice skating. The admission will cost $4.88, and the skate rental will cost $5.26. What will the total cost be?</string>
+		<key>answer</key>
+		<string>$10.14</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$10.96</string>
+			<string>$9.96</string>
+			<string>$9.14</string>
+			<string>$10.14</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Stanley buys a flashlight costing $6.11. He gives the cashier two five-dollar bills. The cashier gives him his change using the least number of coins and bills possible. How many quarters does he receive?</string>
+		<key>answer</key>
+		<string>3</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Mandy buys a hamster wheel costing $7.42. She gives the cashier $10.00. The cashier gives her change using the least number of coins and bills possible. How many dimes does she receive?</string>
+		<key>answer</key>
+		<string>none</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>3</string>
+			<string>2</string>
+			<string>1</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>You pay 85¢ to buy a granola bar costing 76¢. You receive 5 coins back. How many nickels did you receive?</string>
+		<key>answer</key>
+		<string>1</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>You bought a bag of sugar which costs $2.89. You gave 2 one dollar bill and few quarters to the cashier. How many quarters did you give to the cashier?</string>
+		<key>answer</key>
+		<string>4</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>2</string>
+			<string>4</string>
+			<string>10</string>
+			<string>18</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A pear costs 32 cents, mango is 42 cents and banana is 30 cents. You have 1 quarter, 1 nickel and 1 penny. Which fruit can you buy?</string>
+		<key>answer</key>
+		<string>banana</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>pear</string>
+			<string>mango</string>
+			<string>banana</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A slice of cake costs $4.12. You went to shop with a 5 dollar bill. You returned with the cake. What is the maximum number of quarters you might have with you?</string>
+		<key>answer</key>
+		<string>3</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>3</string>
+			<string>4</string>
+			<string>2</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which sign makes the statement true?
+
+2 quarters ? 6 dimes</string>
+		<key>answer</key>
+		<string>&lt;</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>&lt;</string>
+			<string>&gt;</string>
+			<string>=</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>You pay $4.00 to buy a hairbrush costing $3.20. You receive 4 coins as an exact change. How many nickels you might have received?</string>
+		<key>answer</key>
+		<string>1</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>4</string>
+		</array>
+	</dict>
+</array>
+</plist>

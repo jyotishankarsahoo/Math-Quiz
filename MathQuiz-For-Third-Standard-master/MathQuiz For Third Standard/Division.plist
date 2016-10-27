@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Braden took 80 playing cards and arranged them in 10 even piles. How many playing cards did Braden put in each pile?</string>
+		<key>answer</key>
+		<string>8</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>10</string>
+			<string>16</string>
+			<string>6</string>
+			<string>8</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>It takes 3 stamps to mail a package. If Dale has 81 stamps, how many packages can he mail?</string>
+		<key>answer</key>
+		<string>27</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>81</string>
+			<string>28</string>
+			<string>17</string>
+			<string>27</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>At a certain restaurant, each table seats 4 people. How many tables will a group of 68 people need?</string>
+		<key>answer</key>
+		<string>17</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>17</string>
+			<string>27</string>
+			<string>14</string>
+			<string>32</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A farmer wants to plant 752 tomato plants. If he can put 3 plants in each row, how many rows will he need to make?</string>
+		<key>answer</key>
+		<string>251</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>249</string>
+			<string>250</string>
+			<string>251</string>
+			<string>252</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A football team has $502 to spend on hats for their fans. Each hat costs $5. How many hats can the team buy?</string>
+		<key>answer</key>
+		<string>100</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>100</string>
+			<string>101</string>
+			<string>99</string>
+			<string>102</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 546 students that want to play in a volleyball tournament. If each team needs 5 players, how many teams can the students form?</string>
+		<key>answer</key>
+		<string>109</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>109</string>
+			<string>110</string>
+			<string>108</string>
+			<string>100</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A clothing store has 7,504 sweaters. If the sweaters are stored in piles of 5, how many piles should the store make?</string>
+		<key>answer</key>
+		<string>1501</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>1500</string>
+			<string>1501</string>
+			<string>1502</string>
+			<string>1503</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 4,518 students at a concert. If there are 5 seats in each row, how many rows will the students need?</string>
+		<key>answer</key>
+		<string>904</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>900</string>
+			<string>903</string>
+			<string>904</string>
+			<string>905</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A real estate agent has $2,705 to spend on newspaper ads. If each ad costs $3, how many ads will the real estate agent be able to buy?</string>
+		<key>answer</key>
+		<string>901</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>900</string>
+			<string>901</string>
+			<string>902</string>
+			<string>903</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A jazz band wants to sell $5,609 worth of tickets. If each ticket costs $7, how many tickets will the band have to sell to meet its goal?</string>
+		<key>answer</key>
+		<string>802</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>800</string>
+			<string>801</string>
+			<string>802</string>
+			<string>803</string>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>A square kitchen tile has sides that are 2 inches long. What is the tile&apos;s area?</string>
+		<key>answer</key>
+		<string>4 sq inches</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>2 sq inches</string>
+			<string>4 sq inches</string>
+			<string>8 sq inches</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A rectangular concrete patio is 7 meters wide and 12 meters long. What is its area?</string>
+		<key>answer</key>
+		<string>84 sq inches</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>72 sq inches</string>
+			<string>49 sq inches</string>
+			<string>144 sq inches</string>
+			<string>84 sq inches</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>The surface of an office desk is 7 feet long and 3 feet wide. What is its area?</string>
+		<key>answer</key>
+		<string>21 sq feet</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>49 sq feet</string>
+			<string>9 sq feet</string>
+			<string>21 sq feet</string>
+			<string>10 sq feet</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Zach has a pool in his backyard, and he wants to build a fence around the entire area. Zach&apos;s backyard is 10 meters wide and 12 meters long. It costs $7.00 per meter to install a wooden fence. How much would it cost to put a wooden fence around Zach&apos;s backyard?</string>
+		<key>answer</key>
+		<string>$308</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$840</string>
+			<string>$1540</string>
+			<string>$308</string>
+			<string>$700</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Gavin&apos;s bedroom door is 8 feet tall and 4 feet wide. A new door would cost $3.50 per square foot. How much would a new bedroom door cost in total?</string>
+		<key>answer</key>
+		<string>$112</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$56</string>
+			<string>$112</string>
+			<string>$224</string>
+			<string>$42</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A beach volleyball court is 9 meters wide and 16 meters long. The rope used for the boundary line costs $2.00 per meter. How much would it cost to buy a new boundary line for the court?</string>
+		<key>answer</key>
+		<string>$100</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$50</string>
+			<string>$100</string>
+			<string>$128</string>
+			<string>$288</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A school wants to buy a chalkboard that measures 1 meter by 2 meters. The chalkboard costs $48.00 per square meter. How much will the chalkboard cost?</string>
+		<key>answer</key>
+		<string>$96</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>$48</string>
+			<string>$56</string>
+			<string>$72</string>
+			<string>$96</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string></string>
+		<key>answer</key>
+		<string></string>
+		<key>credit</key>
+		<integer>0</integer>
+		<key>options</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string></string>
+		<key>answer</key>
+		<string></string>
+		<key>credit</key>
+		<integer>0</integer>
+		<key>options</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string></string>
+		<key>answer</key>
+		<string></string>
+		<key>credit</key>
+		<integer>0</integer>
+		<key>options</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+</array>
+</plist>

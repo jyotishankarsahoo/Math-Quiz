@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>The city zoo had 129 animals, 28 new animals were brought in and 12 new lion cubs were born yesterday. How many animals does the zoo have now?</string>
+		<key>answer</key>
+		<string>169</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>159</string>
+			<string>169</string>
+			<string>157</string>
+			<string>141</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Jenifer works for a moving company and had to move 187 kilograms of her customer&apos;s belongings in small boxes and 214 kilograms in large boxes. In total, how many kilograms did Jenifer pack in the boxes?</string>
+		<key>answer</key>
+		<string>401</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>399</string>
+			<string>499</string>
+			<string>299</string>
+			<string>401</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>During the winter, customers buy 286 jackets from a department store. During the rest of the year, they buy 395. How many swim suits are sold overall?</string>
+		<key>answer</key>
+		<string>681</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>681</string>
+			<string>581</string>
+			<string>691</string>
+			<string>671</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A treasure hunter discovered a buried treasure chest. He opened it up and discovered that it contained 234 diamonds and 666 pearls. How many gems were in the chest?</string>
+		<key>answer</key>
+		<string>900</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>800</string>
+			<string>900</string>
+			<string>890</string>
+			<string>1000</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A company built some new houses in Sunnyvale, painting them with 186 gallons of blue paint and 489 gallons of white paint. How many gallons of paint did the company use?</string>
+		<key>answer</key>
+		<string>675</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>685</string>
+			<string>585</string>
+			<string>675</string>
+			<string>665</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Over the years, Mitchell&apos;s dog chewed through 528 dog bones and 155 stuffed animals. How many toys did the dog ruin?</string>
+		<key>answer</key>
+		<string>683</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>683</string>
+			<string>682</string>
+			<string>583</string>
+			<string>582</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>So far, an orchard has sold a total of 370 pounds of fresh fruit and 549 pounds of frozen fruit this season. In total, how many pounds of fruit have been sold?</string>
+		<key>answer</key>
+		<string>919</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>829</string>
+			<string>919</string>
+			<string>929</string>
+			<string>819</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A scientist believes that there are 236 small parakeets and 569 large parakeets in a particular part of the rainforest. What is the total parakeet population there?</string>
+		<key>answer</key>
+		<string>805</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>805</string>
+			<string>705</string>
+			<string>797</string>
+			<string>895</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Mike&apos;s car broke and he used $315 from his savings to have it repaired. After that, he had $588 left in savings. How much money did Mike have saved before his car broke?</string>
+		<key>answer</key>
+		<string>903</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>900</string>
+			<string>903</string>
+			<string>273</string>
+			<string>803</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>A dust storm sweeps across the prairie. It covers 385 acres of the prairie in dust, but leaves 140 acres untouched. How many acres does the prairie cover?</string>
+		<key>answer</key>
+		<string>525</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>425</string>
+			<string>515</string>
+			<string>585</string>
+			<string>525</string>
+		</array>
+	</dict>
+</array>
+</plist>

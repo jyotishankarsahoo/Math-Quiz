@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Braden took 50 playing cards and arranged them in 5 even piles. How many playing cards did Braden put in each pile?</string>
+		<key>answer</key>
+		<string>10</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>10</string>
+			<string>5</string>
+			<string>6</string>
+			<string>8</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>The Bloomington bakery had 930 bags of sugar. Then an employee used 250 bags of sugar to make some cheesecake. How much sugar is left?</string>
+		<key>answer</key>
+		<string>680</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>680</string>
+			<string>660</string>
+			<string>690</string>
+			<string>650</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Before the recent housing boom, there were 682 houses in Hamilton County. Now, there are 943 houses. How many houses did developers build during the housing boom?</string>
+		<key>answer</key>
+		<string>261</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>260</string>
+			<string>261</string>
+			<string>262</string>
+			<string>263</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>There are 75 people attending a conference. If each table at the conference can seat 7 people, how many tables will the conference need?</string>
+		<key>answer</key>
+		<string>11</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>10</string>
+			<string>11</string>
+			<string>12</string>
+			<string>15</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Mr. Chapman built a cabin with 215 logs, and his friend built a cabin with 189 logs. How many logs did the two of them use?</string>
+		<key>answer</key>
+		<string>404</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>304</string>
+			<string>404</string>
+			<string>305</string>
+			<string>405</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Jodie was collecting coins. She got 5 coins from her piggy bank and 6 coins from her brother. Her father gave Jodie 12 coins. Jodie gave 6 of the coins to her friend Tara. How many coins did Jodie have left?</string>
+		<key>answer</key>
+		<string>17</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>23</string>
+			<string>22</string>
+			<string>17</string>
+			<string>19</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Shawna saved $41 in March. She saved $25 in April and $48 in May. Then Shawna spent $40 on a keyboard. How much money does Shawna have left?</string>
+		<key>answer</key>
+		<string>74</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>114</string>
+			<string>75</string>
+			<string>81</string>
+			<string>74</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>62 students went for boating ride. A boat must have 4 people. Students are told to form groups of 4. How many students would be left outside any of the groups?</string>
+		<key>answer</key>
+		<string>2</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>1</string>
+			<string>2</string>
+			<string>3</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Anne saved $48 in June, $36 in July, and $16 in August. Then Anne spent $20 on school supplies and $67 on new clothes. How much money does Anne have left?</string>
+		<key>answer</key>
+		<string>$13</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$80</string>
+			<string>$33</string>
+			<string>$13</string>
+			<string>$3</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Connor saved up $47. Then he got $27 for his allowance. Connor spent $10 on a pair of gloves, $4 on a winter hat, $42 on a jacket, and $18 on books. How much money does Connor have left?</string>
+		<key>answer</key>
+		<string>none</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>$10</string>
+			<string>$18</string>
+			<string>$8</string>
+			<string>none</string>
+		</array>
+	</dict>
+</array>
+</plist>

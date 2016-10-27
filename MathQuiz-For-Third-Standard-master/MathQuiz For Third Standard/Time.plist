@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Which is the missing time?
+11:30, 11:45, ?, 12:15, 12:30</string>
+		<key>answer</key>
+		<string>12:00</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>12:00</string>
+			<string>11:55</string>
+			<string>12:05</string>
+			<string>12:10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Which is the missing time?
+
+11:00, 12:40, ?, 4:00</string>
+		<key>answer</key>
+		<string>2:20</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>2:30</string>
+			<string>2:10</string>
+			<string>2:20</string>
+			<string>2:40</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How many years are in a decade?</string>
+		<key>answer</key>
+		<string>10</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>12</string>
+			<string>6</string>
+			<string>10</string>
+			<string>5</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How many days are in a leap year?</string>
+		<key>answer</key>
+		<string>366</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>364</string>
+			<string>365</string>
+			<string>366</string>
+			<string>367</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How many seconds in an hour?</string>
+		<key>answer</key>
+		<string>3600</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>60</string>
+			<string>360</string>
+			<string>120</string>
+			<string>3600</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How many years in 2 centuries?</string>
+		<key>answer</key>
+		<string>200</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>100</string>
+			<string>50</string>
+			<string>200</string>
+			<string>120</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Carson went to the shopping mall. He got to the mall at twenty to eleven in the morning. He visited two clothing stores, a department store, and a toy store. Carson left the mall at five past two in the afternoon. How long was he at the mall?</string>
+		<key>answer</key>
+		<string>3hrs 25mins</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>2hrs 45mins</string>
+			<string>3hrs 25mins</string>
+			<string>4hrs 5mins</string>
+			<string>2hrs 35mins</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Sam took the bus downtown to go shopping. He got on the bus at 4:55 and got off 45 minutes later. What time was it when he arrived downtown?</string>
+		<key>answer</key>
+		<string>5:40</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>5:30</string>
+			<string>5:40</string>
+			<string>5:45</string>
+			<string>5:50</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Brennan left for work at 5:25 A.M. He got stuck in traffic and didn&apos;t arrive until 6 A.M. How long did it take Brennan to get to work?</string>
+		<key>answer</key>
+		<string>35 mins</string>
+		<key>credit</key>
+		<integer>2</integer>
+		<key>options</key>
+		<array>
+			<string>35 mins</string>
+			<string>45 mins</string>
+			<string>25 mins</string>
+			<string>none</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>Marshall got in line for a roller coaster at twenty-five past eleven in the morning. He got on the ride at noon. How long did Marshall wait in line?</string>
+		<key>answer</key>
+		<string>35 mins</string>
+		<key>credit</key>
+		<integer>3</integer>
+		<key>options</key>
+		<array>
+			<string>25 mins</string>
+			<string>30 mins</string>
+			<string>35 mins</string>
+			<string>45 mins</string>
+		</array>
+	</dict>
+</array>
+</plist>
